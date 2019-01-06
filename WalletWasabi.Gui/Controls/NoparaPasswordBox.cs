@@ -29,6 +29,29 @@ namespace WalletWasabi.Gui.Controls
 			"你是我见过的最可爱的僵尸。", //You’re the cutest zombie I’ve ever seen.
 			"永不放弃。", //Never don't give up.
 			"如果你是只宠物小精灵，我就选你。" //If you were a Pokemon, I'd choose you.
+			"你的比特币你的钥匙。" //Your keys, your bicoin.
+			"用户激活软叉。" //User Activated Soft Fork.
+			"没有两个x。" //No2X.
+			"不信任,验证。" //Don't trust, verify.
+			"在银行的第二轮救助边缘的财政大臣。" //Chancellor on brink of second baylout for banks.
+			"比特币：一种点对点的电子现金系统。" //Bitcoin: a electronic peer to peer cash system.
+			"个纯粹的点对点版本的电子现金系统，将允许在线支付直接从一方发送到另一方，而无需通过金融机构。" //A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution.
+			"我开发了一个名为比特币的新型开源P2P电子现金系统。" //I've developed a new open source P2P e-cash system called Bitcoin.
+			"隐私是电子时代开放社会的必要条件。" //Privacy is necessary for an open society in the electronic age.
+			"隐私不是保密。" //Privacy is not secrecy.
+			"一个幽灵正在困扰着现代世界，即加密无政府状态的幽灵。" //A specter is haunting the modern world, the specter of crypto anarchy. 
+			"我们正在建立一个私人互动中心，统治者不能干涉。" //We are building a center of private interaction, where rulers cannot intrude.
+			"最基本的文化武器是控制言论。" //The most fundamental weapon of culture is the control of speech.
+			"独处是最值得珍惜的事情。" //To be left alone is the most precious thing one can ask of.
+			"在抵制不公正方面不存在犯罪意图。" //There can be no criminal intent in resisting injustice.
+			"可以通过使用特殊信封获得解决方案。" //A solution can be obtained by use of the special envelopes.
+			"你们中间不受欢迎。 你们聚集的地方没有主权。" //You are not welcome among us. You have no sovereignty where we gather. 
+			"制作密码和代码的科学。" //The science of the making of ciphers and codes.
+			"不透明意味着没有透明，不可见。" //Opaque means not transparent, not visible.
+			"没有中央控制，没有统治者，没有领导者。" //No central control, no ruler, no leader.
+			"匿名系统使个人能够在需要时展示自己的身份，并且只有在需要时才能展示自己的身份。" //Anoanonymous system empowers individuals to reveal their identity when desired and only when desired.
+			"绝对隐私和匿名交易将成为一个公民社会。" //Absolute privacy and anonymous transactions would make for a civil society.
+			"权力在我心中。 它一直都是。" //The power is within us. It always has been.
 		};
 
 		//public static readonly string[] Titles =
